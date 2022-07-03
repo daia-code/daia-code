@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daia-code
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning java advanced & python.
+- 🌱 I’m currently i am a student at computer science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
