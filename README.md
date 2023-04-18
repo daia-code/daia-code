@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my web-app Quicktour<br>👯 I’m looking to collaborate on apps idea<br>🌱 I’m currently learning C at FORVIA training<br>💬 Ask me about programming and IT life student at UO<br>⚡ Programming fact " The world’s first computer programmer was a renowned female mathematician"<br>-Ada Lovelace
 
-<link src="https://www.codewars.com/users/daia-code/badges/large"></link>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daianalarisa.lucaciu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daia.code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daiana-larisa-lucaciu) 
 
