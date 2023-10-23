@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on my web-travel-app "Walk Oradea" [![WIX}(https://daianalucaciu13.wixstudio.io/walkoradea)]<br>👯 I’m looking to collaborate on web-apps & web-platform <br>🌱 I’m currently learning React <br>💬 Ask me about programming and IT life student at UO<br>⚡ Programming fact " The world’s first computer programmer was a renowned female mathematician"<br>-Ada Lovelace
+🔭 I’m currently working on my web-travel-app "Walk Oradea" [Visit My Wix Project]([https://daianalucaciu13.wixstudio.io/walkoradea])
+<br>👯 I’m looking to collaborate on web-apps & web-platform <br>🌱 I’m currently learning React <br>💬 Ask me about programming and IT life student at UO<br>⚡ Programming fact " The world’s first computer programmer was a renowned female mathematician"<br>-Ada Lovelace
 
 
 ## 🌐 Socials:
